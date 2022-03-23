@@ -1,0 +1,17 @@
+{
+  "name": "binary",
+  "version": "1.0.0",
+  "description": "",
+  "main": "binary.js",
+  "scripts": {
+    "test": "node binary.js",
+    "dev": "nodemon binary.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0",
+    "treeify": "^1.1.0"
+  }
+}
